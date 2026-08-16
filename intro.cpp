@@ -5,4 +5,5 @@ int main() {
 for(int i = 1; i<=10; i++){
    cout<<4<<" * "<<i<<" = "<<4*i<<endl;
    }
+  int x = 23;
 }
